@@ -1,11 +1,7 @@
 {
-	"name": "com.ML.PseudoInterfaceField",
-	"displayName": "Pseudo Interface Field",
+	"name": "com.MrPawolo.PseudoInterfaceField",
 	"version": "1.0.0",
 	"author": "Paweł Misztal",
-	"description": "",
-	"dependencies": {
-	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/MrPawolo/Pseudo-Interface-Field.git"
